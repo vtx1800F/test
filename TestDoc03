@@ -2,7 +2,6 @@ Initial line in the test doc 03
 First change in file
 <<<<<<< HEAD
 Second change - master
-=======
 Second change - TestBranch00
 >>>>>>> TestBranch00
 Third change in TP-1
