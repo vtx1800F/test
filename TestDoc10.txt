@@ -1,1 +1,2 @@
 Test string 0010
+String 02 in TestDoc10
