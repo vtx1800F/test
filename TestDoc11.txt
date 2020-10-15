@@ -1,1 +1,2 @@
 Test string 0011
+String 02 in doc 11
