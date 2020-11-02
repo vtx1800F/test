@@ -1,2 +1,2 @@
 Test string 0010
-String 02 in TestDoc10
+String 02 in TestDoc10"Random string" 
