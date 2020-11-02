@@ -1,0 +1,7 @@
+commit dde3e7749a50d58eeeddd2fff9c96be2e478e70d
+Author: Konstantin Firsanov <kfirsanov@issart.com>
+Date:   Mon Oct 26 21:42:32 2020 +0600
+
+    GP-1 Change 1 in Doc7 file Alpharetta
+"Test string" 
+"Test string" 
